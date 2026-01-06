@@ -152,3 +152,55 @@ header {
     font-weight: 700;
     color: #474747;
 }
+/* About Section Ended */
+/* Skills Section Started */
+.skills-section {
+    padding-top: 130px;
+}
+.skills-container {
+    width: 70%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.skills-heading {
+    text-align: center;
+}
+.skills-heading h2 {
+    font-size: 35px;
+    font-weight: 700;
+}
+.skills-heading p {
+    font-size: 18px;
+    color: #474747;
+    margin-top: 20px;
+    line-height: 30px;
+}
+.skills-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    gap: 30px;
+}
+.info2 {
+    padding: 40px 50px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+}
+.info2 p {
+    font-size: 14px;
+    color: #474747;
+    margin-top: 15px;
+    line-height: 28px;
+}
+.info2 h3 {
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #474747;
+}
+.card-container {
+    width: 70%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+/* Skills Section Ended */
