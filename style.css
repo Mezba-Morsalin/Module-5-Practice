@@ -8,14 +8,14 @@
 header {
     background: url(./images/developer.png), url(./images/header_bg.png), #fff8f3;
     background-repeat: no-repeat, no-repeat,no-repeat;
-    background-position: left top, right bottom;
+    background-position: 25px 10px, right bottom;
 }
 /* Navbar Section Started */
 .nav-container {
     width: 70%;
     max-width: 1140px;
     margin: 0 auto;
-    padding: 20px;
+    padding-top: 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -63,7 +63,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 30px 40px 0 250px;
+    margin: 30px 40px 0 210px;
 }
 .banner-content {
     max-width: 550px;
