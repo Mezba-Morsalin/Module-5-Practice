@@ -63,7 +63,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 30px 40px 0 210px;
+    margin: 30px 30px 0 210px;
 }
 .banner-content {
     max-width: 550px;
